@@ -4,10 +4,6 @@ open /Applications/Docker.app
 # Default version 2017.4
 XILVER=${1:-2017.4}
 
-
-
-
-
 # Default Vivado build number
 XXXX_X=${2:-1216_1}
 
