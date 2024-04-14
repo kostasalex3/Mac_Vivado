@@ -53,12 +53,13 @@ To simplify file sharing, you can set up an alias in your shell profile:
 
 ```bash
  ~/.zshrc
+```
 or
 ```bash
  ~/.bashrc
 ```
 and add the following line:
-
+```bash
 alias share='/dir_to_bash_script/start_http.sh'
 ```
 
