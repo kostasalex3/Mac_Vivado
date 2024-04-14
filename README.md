@@ -58,7 +58,7 @@ or
  ~/.bashrc
 ```
 and add the following line:
-```bash
+
 alias share='/dir_to_bash_script/start_http.sh'
 ```
 
