@@ -1,4 +1,4 @@
-# Mac_Vivado
+# Mac Vivado
 2017.4 Vivado docker builder for macos
 ### How to Run Vivado Docker Image for macOS
 
