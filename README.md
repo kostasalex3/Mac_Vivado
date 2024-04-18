@@ -78,3 +78,4 @@ Now, you can use the share command from any directory to share its contents.
 3.    Customize the Vivado version and build number in the ./build.sh script.
 4.    The python script and bash script will be on the extras folder
 5.    Also for macOS a faster alternative is OrbStack
+6.    Colima is good for fowarding devices into the container 
